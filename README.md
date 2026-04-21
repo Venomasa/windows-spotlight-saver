@@ -22,6 +22,7 @@ Open a terminal and run:
 ```powershell
 python save_spotlight_wallpaper.py
 ```
+or just download standalone exe and run it
 
 The script will copy the current wallpaper or Spotlight image to your desktop.
 
