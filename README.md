@@ -20,7 +20,7 @@ A small Python utility to save the current Windows wallpaper or Spotlight image 
 Open a terminal and run:
 
 ```powershell
-python save_current_spotlight.py
+python save_spotlight_wallpaper.py
 ```
 
 The script will copy the current wallpaper or Spotlight image to your desktop.
